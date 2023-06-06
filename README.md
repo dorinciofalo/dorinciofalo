@@ -1,7 +1,7 @@
 <h1 align="center"><Strong>Ciao, io sono Dorin!</Strong></h1>
 <h3 align="center" color="red">Adoro tutto ciò che ha a che fare con la grafica, amo il marketer ed ho tanta voglia di imparare.</h3>
 <div align="center">
-<img align="center" src="https://www.communicationvillage.com/blogs/wp-content/uploads/sites/2/2018/05/web-marketing.jpg" />  
+<img align="center" src=https://www.food-agency.it/blog/food-marketing/cose-e-come-funziona-il-digital-food-marketing/ />  
   </div>
 <hr>
 <h1>I miei contatti</h1>

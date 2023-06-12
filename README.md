@@ -6,5 +6,6 @@
 <h1>I miei contatti</h1>
 <div style="display:flex">
   </div>
-<p align="left">Puoi contattarmi qui: dorinciofalo03@gmail.com</p>
+<p align="left">Puoi contattarmi qui:</p>
+ <p>dorinciofalo03@gmail.com</p>
 

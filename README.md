@@ -1,5 +1,5 @@
 <h1 align="center"><Strong>Ciao, io sono Dorin!</Strong></h1>
-<h3 align="center" color="red">Adoro tutto ciò che ha a che fare con la grafica, amo il marketer ed ho tanta voglia di imparare.</h3>
+<h3 align="center" color="red">Adoro tutto ciò che ha a che fare con la grafica, amo il marketing ed ho tanta voglia di imparare.</h3>
 <div align="center">
   </div>
 <hr>
